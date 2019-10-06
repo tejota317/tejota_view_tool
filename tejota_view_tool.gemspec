@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{Various view specific methods for applications.}
   spec.description   = %q{Provides generated HTML data for Rails applications.}
-  spec.homepage      = "htts://terencecboylejr.com"
+  spec.homepage      = "https://terencecboylejr.com"
   spec.license       = "MIT"
 
   spec.metadata["allowed_push_host"] = "https://rubygems.org"
